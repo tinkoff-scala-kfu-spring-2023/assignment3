@@ -22,7 +22,15 @@ class BuildingSpec extends AnyFlatSpec with Matchers {
     1 shouldEqual 0 // Implement yourself
   }
 
-  it should "return None if there are no women in the building" in {
+  it should "return 0 if there are no women in the building" in {
+    1 shouldEqual 0 // Implement yourself
+  }
+
+  "countCommercial" should "return number of commercial establishments in the building" in {
+    1 shouldEqual 0 // Implement yourself
+  }
+
+  it should "return 0 if there are no commercial establishments in the building" in {
     1 shouldEqual 0 // Implement yourself
   }
 }
