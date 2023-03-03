@@ -34,4 +34,4 @@
     ```scala
     def evenFloorsMenAvg(building: Building): Double = ???
     ```
-1. Напишите тесты в BuildingSpec.scala
+1. Напишите тесты в BuildingSpec.scala. На функцию fold отдельные тесты писать не обязательно
