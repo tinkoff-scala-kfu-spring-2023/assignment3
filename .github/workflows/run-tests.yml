@@ -4,8 +4,7 @@ on:
       - 'src/**'
       - 'project/**'
       - 'build.sbt'
-    branches:
-      - master
+    branches: [ "master", "main" ]
 
 jobs:
   test:
